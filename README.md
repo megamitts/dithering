@@ -1,0 +1,2 @@
+# dithering
+a dithering example
